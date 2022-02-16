@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains a checklist to help the reviewers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1bf66a5546849b7bfabb65b35eeddfc7_reviewer_check.pdf
+file: /media/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1bf66a5546849b7bfabb65b35eeddfc7_reviewer_check.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: reviewer_check.pdf
 uid: 1bf66a55-4684-9b7b-fabb-65b35eeddfc7

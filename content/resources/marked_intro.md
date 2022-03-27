@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 66f10736-c178-b883-af93-97a73f6d1c09
 resourcetype: Document
 title: marked_intro.pdf
 uid: 0b0425c8-38c5-8307-33ba-460a42b2fea8

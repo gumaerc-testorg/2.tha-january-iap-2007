@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 66f10736-c178-b883-af93-97a73f6d1c09
 resourcetype: Document
 title: proposal_check.pdf
 uid: 975adf08-a725-3d26-2fea-7d5b11e2647e

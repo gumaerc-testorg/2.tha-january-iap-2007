@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 66f10736-c178-b883-af93-97a73f6d1c09
 resourcetype: Document
 title: oral2_eval.pdf
 uid: 92a11717-7e56-0819-344d-c2fc86e8b8da

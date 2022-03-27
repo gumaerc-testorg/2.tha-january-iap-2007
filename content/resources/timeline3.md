@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 66f10736-c178-b883-af93-97a73f6d1c09
 resourcetype: Document
 title: timeline3.pdf
 uid: bbf275f1-c4f7-d1ce-b1b2-1753b41e8cc4

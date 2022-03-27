@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 66f10736-c178-b883-af93-97a73f6d1c09
 resourcetype: Document
 title: reviewer_check.pdf
 uid: 1bf66a55-4684-9b7b-fabb-65b35eeddfc7

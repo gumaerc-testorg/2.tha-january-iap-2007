@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 20166e98-9f17-2979-f457-aff20ef4abbf
 resourcetype: Document
 title: timeline.pdf
 uid: b30b037c-ea4b-47d7-2b8e-50903f0e9e95

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a checklist for the oral presentation.
-file: /media/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/92a117177e560819344dc2fc86e8b8da_oral2_eval.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/92a117177e560819344dc2fc86e8b8da_oral2_eval.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: oral2_eval.pdf
 uid: 92a11717-7e56-0819-344d-c2fc86e8b8da
 ---
+This resource contains a checklist for the oral presentation.
+

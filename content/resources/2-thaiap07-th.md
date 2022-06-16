@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/ee970bec08859b41ddb13f45f8a5ab3a_2-THAiap07-th.jpg
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/ee970bec08859b41ddb13f45f8a5ab3a_2-THAiap07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Dave Custer edits text to accurately reflect the author's intentions
@@ -15,3 +15,5 @@ resourcetype: Image
 title: 2-THAiap07-th.jpg
 uid: ee970bec-0885-9b41-ddb1-3f45f8a5ab3a
 ---
+New image Upload
+

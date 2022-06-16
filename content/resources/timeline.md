@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/b30b037cea4b47d72b8e50903f0e9e95_timeline.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/b30b037cea4b47d72b8e50903f0e9e95_timeline.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

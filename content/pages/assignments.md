@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This resource contains a list of short assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

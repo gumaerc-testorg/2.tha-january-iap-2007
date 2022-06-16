@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus contains an overview, gradings, and term schedule and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -42,7 +43,7 @@ Term Schedule and Assignments
 
 This class meets six times as shown below. Deliverables culminate in a written thesis proposal and an oral presentation based on the proposal. The proposal and an appropriately signed cover sheet must be turned in to the 2.ThA instructor. Finally, students are expected to fill out a pair of end-of-term evaluations, one MIT form and one 2.ThA-specific form.
 
-2.ThA Deliverables Timeline ([PDF]({{< baseurl >}}/resources/timeline))
+2.ThA Deliverables Timeline ({{% resource_link b30b037c-ea4b-47d7-2b8e-50903f0e9e95 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

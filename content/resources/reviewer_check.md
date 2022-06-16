@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a checklist to help the reviewers.
-file: /media/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1bf66a5546849b7bfabb65b35eeddfc7_reviewer_check.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1bf66a5546849b7bfabb65b35eeddfc7_reviewer_check.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: reviewer_check.pdf
 uid: 1bf66a55-4684-9b7b-fabb-65b35eeddfc7
 ---
+This resource contains a checklist to help the reviewers.
+

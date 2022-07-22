@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Photograph of instructor Dave Custer at the 'Geeeek' Safety Area.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: 2-THAiap07.jpg
 uid: 7160346d-55f2-f2de-4f03-016615898280
 ---
 Instructor Dave Custer edits text to accurately reflect the author's intensions at the Gee Creek Safety Rest Area. (Courtesy of Dave Custer and Susan Ruff. Used with permission.)
-

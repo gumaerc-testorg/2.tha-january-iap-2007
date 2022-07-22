@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/b30b037cea4b47d72b8e50903f0e9e95_timeline.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection

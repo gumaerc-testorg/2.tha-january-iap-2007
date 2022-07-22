@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Photograph of instructor Dave Custer at the 'Geeeek' Safety Area.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: 2-THAiap07-th.jpg
 uid: ee970bec-0885-9b41-ddb1-3f45f8a5ab3a
 ---
 New image Upload
-

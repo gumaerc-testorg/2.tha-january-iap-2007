@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This resource contains a list of short assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e84037ac-9319-ddbd-12cf-93c30f664b97
 ---

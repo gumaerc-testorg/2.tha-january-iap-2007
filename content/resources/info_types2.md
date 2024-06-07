@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains some thesis examples, and some possible information
   types.
 file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/b886a5d451538e1b2dac1c251a116f99_info_types2.pdf
+file_size: 72293
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the coversheet for the thesis.
 file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/77f49dc8c214693cbadc6e18003dd216_coversheet.pdf
+file_size: 12954
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

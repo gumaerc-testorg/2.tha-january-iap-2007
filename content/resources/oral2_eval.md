@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a checklist for the oral presentation.
 file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/92a117177e560819344dc2fc86e8b8da_oral2_eval.pdf
+file_size: 34085
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

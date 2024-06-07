@@ -2,6 +2,7 @@
 content_type: resource
 description: Deliverables timeline.
 file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/50eedb0c60b3c450013637d1defc06dd_timeline4.pdf
+file_size: 70299
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

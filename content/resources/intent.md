@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains an intent form which requires some information
   related to the thesis.
-file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1990ade6f10a02595255752118ff0dae_intent.pdf
+file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/1990ade6f10a02595255752118ff0dae_intent.pdf
 file_size: 12273
 file_type: application/pdf
 learning_resource_types: []

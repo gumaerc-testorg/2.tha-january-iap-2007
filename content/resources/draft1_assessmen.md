@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the first draft assessment form.
-file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/9bb0363503fe37dd07b645e95553de10_draft1_assessmen.pdf
+file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/9bb0363503fe37dd07b645e95553de10_draft1_assessmen.pdf
 file_size: 30127
 file_type: application/pdf
 learning_resource_types: []

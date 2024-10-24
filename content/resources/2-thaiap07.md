@@ -3,7 +3,7 @@ content_type: resource
 description: Instructor Dave Custer edits text to accurately reflect the author's
   intensions at the Gee Creek Safety Rest Area. (Courtesy of Dave Custer and Susan
   Ruff. Used with permission.)
-file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/7160346d55f2f2de4f03016615898280_2-THAiap07.jpg
+file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/7160346d55f2f2de4f03016615898280_2-THAiap07.jpg
 file_size: 75855
 file_type: image/jpeg
 image_metadata:

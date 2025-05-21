@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource coontains an exercise for a brief proposal of the thesis.
-file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/6fd72791958b70480d61fa5641d013a6_blank_exercise.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/6fd72791958b70480d61fa5641d013a6_blank_exercise.pdf
 file_size: 42774
 file_type: application/pdf
 learning_resource_types: []

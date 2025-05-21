@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about the oral presentation assignments:
   dos and dont''s, what makes a good talk? craft, what makes an excellent talk? art.'
-file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/8e231eee12dc3df631dca1c3c40b22ba_orals.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/8e231eee12dc3df631dca1c3c40b22ba_orals.pdf
 file_size: 33965
 file_type: application/pdf
 learning_resource_types: []

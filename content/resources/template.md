@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This Document is a Template for a 2A Thesis Proposal.
-file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/cdd981be06d4211a8094b90e5713bae5_template.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/cdd981be06d4211a8094b90e5713bae5_template.pdf
 file_size: 527685
 file_type: application/pdf
 learning_resource_types: []

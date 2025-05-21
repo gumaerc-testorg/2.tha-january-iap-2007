@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a feedback form for the short oral presentation.
-file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/6e440f20db247a0e3f23840d65ee6fb7_oral1_eval.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/6e440f20db247a0e3f23840d65ee6fb7_oral1_eval.pdf
 file_size: 15593
 file_type: application/pdf
 learning_resource_types: []

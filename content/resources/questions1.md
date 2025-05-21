@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment.
-file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/e346e4b21c88d401db9301aba2f4012b_questions1.pdf
+file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/e346e4b21c88d401db9301aba2f4012b_questions1.pdf
 file_size: 45008
 file_type: application/pdf
 learning_resource_types: []

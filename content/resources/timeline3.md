@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Timeline for deliverables.
-file: /courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/bbf275f1c4f7d1ceb1b21753b41e8cc4_timeline3.pdf
+file: /ol-ocw-studio-app/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/bbf275f1c4f7d1ceb1b21753b41e8cc4_timeline3.pdf
 file_size: 72682
 file_type: application/pdf
 learning_resource_types: []

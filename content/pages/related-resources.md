@@ -195,15 +195,15 @@ Proposal Checklist ({{% resource_link 975adf08-a725-3d26-2fea-7d5b11e2647e "PDF"
 Helpful Resources for Thesis Writing
 ------------------------------------
 
-{{% resource_link "de801bb5-e96e-4b0d-ac9f-06f8759a88ad" "The MIT Libraries' Guide to Thesis Preparation" %}}
+[The MIT Libraries' Guide to Thesis Preparation](http://libraries.mit.edu/archives/thesis-specs)
 
-{{% resource_link "506431d6-c8cd-41e7-a45b-6ba3430eb05e" "The 2.671 Journal Article Guidelines, by Barbara Hughey" %}}
+[The 2.671 Journal Article Guidelines, by Barbara Hughey](http://web.mit.edu/2.tha/www/JournalArticleGuidelines.htm)
 
 Assorted Links and Readings
 ---------------------------
 
-"{{% resource_link "6a534681-b25a-4538-814d-c444bf8d6108" "The Science of Scientific Writing" %}}" (The "Prerequisite" to 2.ThA)
+"[The Science of Scientific Writing](http://www.americanscientist.org/issues/feature/the-science-of-scientific-writing/1)" (The "Prerequisite" to 2.ThA)
 
 Perelman, Leslie C., James Paradis, and Edward Barrett. _The Mayfield Handbook of Technical and Scientific Writing_. Mountain View, CA: Mayfield, 1998. ISBN: 1559346477.
 
-Michael Alley. {{% resource_link "9937002e-3021-4844-b467-964e072b9f4c" "_The Craft of Scientific Presentations_" %}}. (A handy reference for Microsoft® PowerPoint® slide ideas.)
+Michael Alley. [_The Craft of Scientific Presentations_](http://www.writing.engr.psu.edu/csp.html). (A handy reference for Microsoft® PowerPoint® slide ideas.)
